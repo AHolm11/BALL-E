@@ -1,5 +1,5 @@
 # BALL-E
-A Rlbot <br />
+An Rlbot <br />
 Useful links
 - Main repository: https://github.com/RLBot/RLBot
 - How to set up a bot for Python: https://youtu.be/UjsQFNN0nSA
