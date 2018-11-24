@@ -1,9 +1,9 @@
-#ok heres my thoughts on the playing for the right team dilema. so if the sign of team is negative, then its on blue team. so if we
-#have the general direction of the orange goal hardcoded in to make the general direction the bot has to hit it in the generally correct 
-#direction, like if its on our half and far away from the target goal, its a very wide range the bot can hit it, probably 130?? degrees
-#half or something which would be the equivelant of just a big clear to the enemy corner, however as we get closer to the enemy goal we
-#narrow that range to get more accurate shots in. The advantage of the wide angle is that the bot will just hit the ball away instead
-# of trying to get the perfect angle and taking forever.
+ok heres my thoughts on the playing for the right team dilema. so if the sign of team is negative, then its on blue team. so if we
+have the general direction of the orange goal hardcoded in to make the general direction the bot has to hit it in the generally correct 
+direction, like if its on our half and far away from the target goal, its a very wide range the bot can hit it, probably 130?? degrees
+half or something which would be the equivelant of just a big clear to the enemy corner, however as we get closer to the enemy goal we
+narrow that range to get more accurate shots in. The advantage of the wide angle is that the bot will just hit the ball away instead
+of trying to get the perfect angle and taking forever.
 - aiden 11/23/18
 
 
